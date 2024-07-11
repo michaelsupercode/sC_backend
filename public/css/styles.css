@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  place-items: center;
+ justify-content: center;
+ min-height: 80vh;
+ margin-block-start: 5rem;
+ background-color: #000;
+  color: white;
+}
+
+img {
+  height: 70%;
+}
